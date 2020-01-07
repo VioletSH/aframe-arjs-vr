@@ -1,0 +1,28 @@
+{
+  "name": "aframe-arjs-vr",
+  "version": "1.0.0",
+  "description": "An Aframe component to enable arjs webcam source rendering on vr mode (stereo rendering)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VioletSH/aframe-arjs-vr.git"
+  },
+  "keywords": [
+    "aframe",
+    "arjs",
+    "component",
+    "components",
+    "vr",
+    "stereo",
+    "aframe-component"
+  ],
+  "author": "Erik Fernando Loaiza Patiño",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VioletSH/aframe-arjs-vr/issues"
+  },
+  "homepage": "https://github.com/VioletSH/aframe-arjs-vr#readme"
+}
